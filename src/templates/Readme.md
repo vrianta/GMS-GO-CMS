@@ -1,0 +1,1 @@
+This folder is holding all the template file which are going to use while creating new components of the application
