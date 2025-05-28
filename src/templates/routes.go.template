@@ -1,0 +1,10 @@
+package main
+
+import (
+	Controllers "{{ .appname }}/Controllers"
+	server "github.com/vrianta/Server"
+)
+
+var Routes = server.Routes{
+	"/":      &Controllers.Home{},
+}

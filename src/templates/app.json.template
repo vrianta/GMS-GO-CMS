@@ -1,0 +1,4 @@
+{
+    Application: "{{ .appname }}"
+    Version: "{{ .version }}"
+}
